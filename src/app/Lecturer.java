@@ -14,11 +14,6 @@ public class Lecturer extends Person implements Info, Level {
     this.StaffNo = sn;
   }
 
-  // public Integer De() {
-    // return 12;
-  // }
-  //
-
   public long Salary() {
     return this.salary;
   }
